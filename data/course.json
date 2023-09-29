@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "0cd4c637-3be6-ad9c-5324-4284a83a7711",
+  "instructors": {
+    "content": [
+      "2610b242-4fee-0a77-c54a-fefd3c74da45"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "27e8bdfd-4f83-898a-ba33-aaf5f6ed4625",
+    "website": "18-315-combinatorial-theory-hyperplane-arrangements-fall-2004"
+  },
+  "course_title": "Combinatorial Theory: Hyperplane Arrangements",
+  "course_description": "This is a graduate-level course in combinatorial theory.\u00a0The content varies year to year, according to the interests of the instructor and the students.\u00a0The topic of this course is hyperplane arrangements, including background material from the theory of posets and matroids.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.315",
+  "course_image_thumbnail": {
+    "content": "02c6098f-27ef-f5a5-1e28-adc0c095f62f",
+    "website": "18-315-combinatorial-theory-hyperplane-arrangements-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "412eca75-6a4b-45ab-98fd-ee43e45ebbee",
+  "site_short_id": "18.315-fall-2004",
+  "title": "Course Metadata"
+}
